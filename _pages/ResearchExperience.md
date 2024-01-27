@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Research Experience"
-permalink: /Research Experience/
+permalink: /ResearchExperience/
 author_profile: true
 ---
 
