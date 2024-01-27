@@ -8,7 +8,7 @@ author_profile: true
 
 **Study on Secondary Structure and Mechanical Properties of Silk Proteins**$~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$**Hangzhou, China**
 
-**Researcher (Lead)** $~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$**Mar.2023-Ongoing**
+**Researcher (Lead)** $~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$**Mar.2023-Ongoing**
 
 **‘Chu Kochen’ College Natural Science Fund Student Cultivation Project**
 
