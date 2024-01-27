@@ -5,9 +5,10 @@ permalink: /ResearchExperience/
 author_profile: true
 ---
 
+
 **Study on Secondary Structure and Mechanical Properties of Silk Proteins**<p align="right">**Hangzhou, China**</p>
 
-**Researcher (Lead)** <p align="right">**Mar.2023-Ongoing**</p>
+**Researcher (Lead)** $~~~~$**Mar.2023-Ongoing**
 
 **‘Chu Kochen’ College Natural Science Fund Student Cultivation Project**
 
