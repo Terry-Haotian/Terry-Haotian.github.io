@@ -8,8 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-I am a third-year undergraduate at Zhejiang University, majoring mechanics. My interests lie in **biomechanics, OCE, optics and mechanics.**
+I am a third-year undergraduate at Zhejiang University, majoring mechanics. My interests lie in **biomechanics, OCE(Optical Coherence Elastography) and the field of combining optics and mechanics.**
 
-I am always looking for opportunities to work on interesting projects. Feel free to reach out to me through email.
-
-Learn more about my projects and experience.
+I am now looking for opportunities to work on cornea mechanical property detection though OCE or ohter optical technologies. Feel free to reach out to me through email.
