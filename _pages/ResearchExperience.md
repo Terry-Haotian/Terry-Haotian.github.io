@@ -18,7 +18,7 @@ Project Description: Protein modeling, molecular dynamic simulation and analysis
 - The interaction between silk proteins and different solvents and the changes of the structure and mechanical properties of silk proteins under the action of different solvents
 - The interaction between the microstructure of silk protein and low-dimensional nanomaterials - try to understand the failure mechanism of the interface between silk protein and low-dimensional nanomaterials under mechanical loading.
 
-**Lab Rotation on Brillouin Microscope for Optical Imaging               **$~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$**Hangzhou, China**
+**Lab Rotation on Brillouin Microscope for Optical Imaging               ** $~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$ **Hangzhou, China**
 
 **Researcher (Lead)** $~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$**Oct.2023-Ongoing**         
 
