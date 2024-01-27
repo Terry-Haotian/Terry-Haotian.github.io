@@ -19,7 +19,7 @@ Project Description: Protein modeling, molecular dynamic simulation and analysis
 
 **Lab Rotation on Brillouin Microscope for Optical Imaging** <p align="right">**Hangzhou, China**</p>
 
-**Researcher (Lead)**     <p align="right">** Oct.2023-Ongoing**</p>         
+**Researcher (Lead)**     <p align="right">**Oct.2023-Ongoing**</p>         
 
 - A review of Brillouin microscopes
 - Learning about the principles of Elastography
@@ -28,5 +28,5 @@ Project Description: Protein modeling, molecular dynamic simulation and analysis
 
 **Group member**  <p align="right">**Feb.2023-Jun.2023**</p>  
 
--Automatic robot pathfinding algorithm
--Differential equation solving
+- Automatic robot pathfinding algorithm
+- Differential equation solving
